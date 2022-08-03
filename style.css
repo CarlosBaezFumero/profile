@@ -30,6 +30,10 @@ a {
   text-decoration: none;
 }
 
+a:hover {
+  color: black;
+}
+
 .borderbox {
   margin-bottom: 10px;
 }
