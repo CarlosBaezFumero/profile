@@ -20,12 +20,17 @@ h1 {
   font-size: 50px;
 }
 
+h2 {
+  color: rgb(87, 95, 125);
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 40px;
+}
+
 a {
   text-decoration: none;
 }
 
 .borderbox {
-  box-sizing: border-box;
   margin-bottom: 10px;
 }
 
