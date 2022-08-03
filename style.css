@@ -9,7 +9,7 @@ body {
   background-color: white;
   padding: 20px;
   /* width: 50%;   This sets the width */
-  margin: 20px auto; /* This automatically sets left/right margins */
+  margin: 15px auto; /* This automatically sets left/right margins */
   text-align: center;
   box-shadow: 1px 1px 1px rgb(83, 83, 83);
 }
@@ -17,9 +17,6 @@ body {
 h1 {
   color: rgb(87, 95, 125);
   font-family: 'Courier New', Courier, monospace;
-}
-
-h1 {
   font-size: 50px;
 }
 
